@@ -5,3 +5,5 @@ Everyday there are new books, and they are usually good books, so it's good to k
 
 # USAGE
 I made it using Python, it should be usable in both Python 3 and Python 2. Just execute the script they way you like and it will print the new book name.
+
+Now there is some caching, so you don't need to download the book everytime you run the script :)
